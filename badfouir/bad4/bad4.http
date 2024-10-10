@@ -1,0 +1,6 @@
+@bad4_HostAddress = http://localhost:5198
+
+GET {{bad4_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

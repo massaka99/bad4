@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\bad4",
+    "\\bad4\\Controllers",
+    "\\bad4\\Data",
+    "\\bad4\\DTO",
+    "\\bad4\\Models",
+    "\\bad4\\Properties",
+    "\\bad4\\Services"
+  ],
+  "SelectedNode": "\\bad4\\Data\\DbInitializer.cs",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,667 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mikai\\Downloads\\bad4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mikai\\Downloads\\bad4\\bad4\\Data\\DbInitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bad4\\Data\\DbInitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mikai\\Downloads\\bad4\\bad4\\Data\\BakeryDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bad4\\Data\\BakeryDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mikai\\Downloads\\bad4\\bad4\\Controllers\\StockController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bad4\\Controllers\\StockController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mikai\\Downloads\\bad4\\bad4\\Controllers\\RecipeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bad4\\Controllers\\RecipeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mikai\\Downloads\\bad4\\bad4\\Models\\Allergen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bad4\\Models\\Allergen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mikai\\Downloads\\bad4\\bad4\\Services\\MongoLog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bad4\\Services\\MongoLog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mikai\\Downloads\\bad4\\bad4\\Services\\LogEntry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bad4\\Services\\LogEntry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mikai\\Downloads\\bad4\\bad4\\Controllers\\BatchController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bad4\\Controllers\\BatchController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mikai\\Downloads\\bad4\\bad4\\Controllers\\BakingGoodsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bad4\\Controllers\\BakingGoodsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mikai\\Downloads\\bad4\\bad4\\Controllers\\AccountController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bad4\\Controllers\\AccountController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mikai\\Downloads\\bad4\\bad4\\Controllers\\LogController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bad4\\Controllers\\LogController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mikai\\Downloads\\bad4\\bad4\\Controllers\\CompanyOrdersController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bad4\\Controllers\\CompanyOrdersController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mikai\\Downloads\\bad4\\bad4\\Controllers\\DispatchController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bad4\\Controllers\\DispatchController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mikai\\Downloads\\bad4\\bad4\\DTO\\RegisterDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bad4\\DTO\\RegisterDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mikai\\Downloads\\bad4\\bad4\\DTO\\LoginDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bad4\\DTO\\LoginDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mikai\\Downloads\\bad4\\bad4\\Models\\ApiUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bad4\\Models\\ApiUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mikai\\Downloads\\bad4\\bad4\\Models\\BakingGoods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bad4\\Models\\BakingGoods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mikai\\Downloads\\bad4\\bad4\\Models\\Batch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bad4\\Models\\Batch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mikai\\Downloads\\bad4\\bad4\\Models\\CompanyOrders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bad4\\Models\\CompanyOrders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mikai\\Downloads\\bad4\\bad4\\Models\\Dispatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bad4\\Models\\Dispatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mikai\\Downloads\\bad4\\bad4\\Models\\Ingredients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bad4\\Models\\Ingredients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mikai\\Downloads\\bad4\\bad4\\Models\\Recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bad4\\Models\\Recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mikai\\Downloads\\bad4\\bad4\\Models\\Stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bad4\\Models\\Stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mikai\\Downloads\\bad4\\bad4\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bad4\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mikai\\Downloads\\bad4\\bad4\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bad4\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mikai\\Downloads\\bad4\\bad4\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bad4\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mikai\\Downloads\\bad4\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mikai\\Downloads\\bad4\\Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mikai\\Downloads\\bad4\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mikai\\Downloads\\bad4\\bad4\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bad4\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mikai\\Downloads\\bad4\\bad4\\Migrations\\20240505205633_Jwtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bad4\\Migrations\\20240505205633_Jwtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mikai\\Downloads\\bad4\\bad4\\Migrations\\20240505205547_Identity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bad4\\Migrations\\20240505205547_Identity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mikai\\Downloads\\bad4\\bad4\\Migrations\\20240505205535_Migration3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bad4\\Migrations\\20240505205535_Migration3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mikai\\Downloads\\bad4\\bad4\\Migrations\\20240505205528_Migration2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bad4\\Migrations\\20240505205528_Migration2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mikai\\Downloads\\bad4\\bad4\\Migrations\\20240505205520_Migration1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bad4\\Migrations\\20240505205520_Migration1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mikai\\Downloads\\bad4\\bad4\\Migrations\\20240505205504_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bad4\\Migrations\\20240505205504_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mikai\\Downloads\\bad4\\bad4\\bad4.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bad4\\bad4.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f5cd1b51-c771-5648-966f-646d419b1e7c}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BatchController.cs",
+              "DocumentMoniker": "C:\\Users\\mikai\\Downloads\\bad4\\bad4\\Controllers\\BatchController.cs",
+              "RelativeDocumentMoniker": "bad4\\Controllers\\BatchController.cs",
+              "ToolTip": "C:\\Users\\mikai\\Downloads\\bad4\\bad4\\Controllers\\BatchController.cs",
+              "RelativeToolTip": "bad4\\Controllers\\BatchController.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAADwv1kAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T13:53:06.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BakingGoodsController.cs",
+              "DocumentMoniker": "C:\\Users\\mikai\\Downloads\\bad4\\bad4\\Controllers\\BakingGoodsController.cs",
+              "RelativeDocumentMoniker": "bad4\\Controllers\\BakingGoodsController.cs",
+              "ToolTip": "C:\\Users\\mikai\\Downloads\\bad4\\bad4\\Controllers\\BakingGoodsController.cs",
+              "RelativeToolTip": "bad4\\Controllers\\BakingGoodsController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAADwvxMAAACGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T13:52:57.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\mikai\\Downloads\\bad4\\bad4\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "bad4\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\mikai\\Downloads\\bad4\\bad4\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "bad4\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAADwv5IAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T13:52:42.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BakeryDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\mikai\\Downloads\\bad4\\bad4\\Data\\BakeryDbContext.cs",
+              "RelativeDocumentMoniker": "bad4\\Data\\BakeryDbContext.cs",
+              "ToolTip": "C:\\Users\\mikai\\Downloads\\bad4\\bad4\\Data\\BakeryDbContext.cs",
+              "RelativeToolTip": "bad4\\Data\\BakeryDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T13:52:10.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\mikai\\Downloads\\bad4\\bad4\\Data\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "bad4\\Data\\DbInitializer.cs",
+              "ToolTip": "C:\\Users\\mikai\\Downloads\\bad4\\bad4\\Data\\DbInitializer.cs",
+              "RelativeToolTip": "bad4\\Data\\DbInitializer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T13:52:20.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LogEntry.cs",
+              "DocumentMoniker": "C:\\Users\\mikai\\Downloads\\bad4\\bad4\\Services\\LogEntry.cs",
+              "RelativeDocumentMoniker": "bad4\\Services\\LogEntry.cs",
+              "ToolTip": "C:\\Users\\mikai\\Downloads\\bad4\\bad4\\Services\\LogEntry.cs",
+              "RelativeToolTip": "bad4\\Services\\LogEntry.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T13:50:54.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MongoLog.cs",
+              "DocumentMoniker": "C:\\Users\\mikai\\Downloads\\bad4\\bad4\\Services\\MongoLog.cs",
+              "RelativeDocumentMoniker": "bad4\\Services\\MongoLog.cs",
+              "ToolTip": "C:\\Users\\mikai\\Downloads\\bad4\\bad4\\Services\\MongoLog.cs",
+              "RelativeToolTip": "bad4\\Services\\MongoLog.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAFgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T13:51:00.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Allergen.cs",
+              "DocumentMoniker": "C:\\Users\\mikai\\Downloads\\bad4\\bad4\\Models\\Allergen.cs",
+              "RelativeDocumentMoniker": "bad4\\Models\\Allergen.cs",
+              "ToolTip": "C:\\Users\\mikai\\Downloads\\bad4\\bad4\\Models\\Allergen.cs",
+              "RelativeToolTip": "bad4\\Models\\Allergen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T13:51:13.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RecipeController.cs",
+              "DocumentMoniker": "C:\\Users\\mikai\\Downloads\\bad4\\bad4\\Controllers\\RecipeController.cs",
+              "RelativeDocumentMoniker": "bad4\\Controllers\\RecipeController.cs",
+              "ToolTip": "C:\\Users\\mikai\\Downloads\\bad4\\bad4\\Controllers\\RecipeController.cs",
+              "RelativeToolTip": "bad4\\Controllers\\RecipeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAB8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T13:53:36.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StockController.cs",
+              "DocumentMoniker": "C:\\Users\\mikai\\Downloads\\bad4\\bad4\\Controllers\\StockController.cs",
+              "RelativeDocumentMoniker": "bad4\\Controllers\\StockController.cs",
+              "ToolTip": "C:\\Users\\mikai\\Downloads\\bad4\\bad4\\Controllers\\StockController.cs",
+              "RelativeToolTip": "bad4\\Controllers\\StockController.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAAAGgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T13:53:45.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CompanyOrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\mikai\\Downloads\\bad4\\bad4\\Controllers\\CompanyOrdersController.cs",
+              "RelativeDocumentMoniker": "bad4\\Controllers\\CompanyOrdersController.cs",
+              "ToolTip": "C:\\Users\\mikai\\Downloads\\bad4\\bad4\\Controllers\\CompanyOrdersController.cs",
+              "RelativeToolTip": "bad4\\Controllers\\CompanyOrdersController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAADwvzEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T13:56:04.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DispatchController.cs",
+              "DocumentMoniker": "C:\\Users\\mikai\\Downloads\\bad4\\bad4\\Controllers\\DispatchController.cs",
+              "RelativeDocumentMoniker": "bad4\\Controllers\\DispatchController.cs",
+              "ToolTip": "C:\\Users\\mikai\\Downloads\\bad4\\bad4\\Controllers\\DispatchController.cs",
+              "RelativeToolTip": "bad4\\Controllers\\DispatchController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAADwvyQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T13:53:17.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LogController.cs",
+              "DocumentMoniker": "C:\\Users\\mikai\\Downloads\\bad4\\bad4\\Controllers\\LogController.cs",
+              "RelativeDocumentMoniker": "bad4\\Controllers\\LogController.cs",
+              "ToolTip": "C:\\Users\\mikai\\Downloads\\bad4\\bad4\\Controllers\\LogController.cs",
+              "RelativeToolTip": "bad4\\Controllers\\LogController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T13:53:25.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RegisterDTO.cs",
+              "DocumentMoniker": "C:\\Users\\mikai\\Downloads\\bad4\\bad4\\DTO\\RegisterDTO.cs",
+              "RelativeDocumentMoniker": "bad4\\DTO\\RegisterDTO.cs",
+              "ToolTip": "C:\\Users\\mikai\\Downloads\\bad4\\bad4\\DTO\\RegisterDTO.cs",
+              "RelativeToolTip": "bad4\\DTO\\RegisterDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T13:52:03.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\mikai\\Downloads\\bad4\\bad4\\DTO\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "bad4\\DTO\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\mikai\\Downloads\\bad4\\bad4\\DTO\\LoginDTO.cs",
+              "RelativeToolTip": "bad4\\DTO\\LoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T13:51:59.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ApiUser.cs",
+              "DocumentMoniker": "C:\\Users\\mikai\\Downloads\\bad4\\bad4\\Models\\ApiUser.cs",
+              "RelativeDocumentMoniker": "bad4\\Models\\ApiUser.cs",
+              "ToolTip": "C:\\Users\\mikai\\Downloads\\bad4\\bad4\\Models\\ApiUser.cs",
+              "RelativeToolTip": "bad4\\Models\\ApiUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T13:51:18.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BakingGoods.cs",
+              "DocumentMoniker": "C:\\Users\\mikai\\Downloads\\bad4\\bad4\\Models\\BakingGoods.cs",
+              "RelativeDocumentMoniker": "bad4\\Models\\BakingGoods.cs",
+              "ToolTip": "C:\\Users\\mikai\\Downloads\\bad4\\bad4\\Models\\BakingGoods.cs",
+              "RelativeToolTip": "bad4\\Models\\BakingGoods.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T13:51:24.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Batch.cs",
+              "DocumentMoniker": "C:\\Users\\mikai\\Downloads\\bad4\\bad4\\Models\\Batch.cs",
+              "RelativeDocumentMoniker": "bad4\\Models\\Batch.cs",
+              "ToolTip": "C:\\Users\\mikai\\Downloads\\bad4\\bad4\\Models\\Batch.cs",
+              "RelativeToolTip": "bad4\\Models\\Batch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T13:51:29.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CompanyOrders.cs",
+              "DocumentMoniker": "C:\\Users\\mikai\\Downloads\\bad4\\bad4\\Models\\CompanyOrders.cs",
+              "RelativeDocumentMoniker": "bad4\\Models\\CompanyOrders.cs",
+              "ToolTip": "C:\\Users\\mikai\\Downloads\\bad4\\bad4\\Models\\CompanyOrders.cs",
+              "RelativeToolTip": "bad4\\Models\\CompanyOrders.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T13:51:33.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Dispatch.cs",
+              "DocumentMoniker": "C:\\Users\\mikai\\Downloads\\bad4\\bad4\\Models\\Dispatch.cs",
+              "RelativeDocumentMoniker": "bad4\\Models\\Dispatch.cs",
+              "ToolTip": "C:\\Users\\mikai\\Downloads\\bad4\\bad4\\Models\\Dispatch.cs",
+              "RelativeToolTip": "bad4\\Models\\Dispatch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T13:51:38.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Ingredients.cs",
+              "DocumentMoniker": "C:\\Users\\mikai\\Downloads\\bad4\\bad4\\Models\\Ingredients.cs",
+              "RelativeDocumentMoniker": "bad4\\Models\\Ingredients.cs",
+              "ToolTip": "C:\\Users\\mikai\\Downloads\\bad4\\bad4\\Models\\Ingredients.cs",
+              "RelativeToolTip": "bad4\\Models\\Ingredients.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T13:51:42.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Recipe.cs",
+              "DocumentMoniker": "C:\\Users\\mikai\\Downloads\\bad4\\bad4\\Models\\Recipe.cs",
+              "RelativeDocumentMoniker": "bad4\\Models\\Recipe.cs",
+              "ToolTip": "C:\\Users\\mikai\\Downloads\\bad4\\bad4\\Models\\Recipe.cs",
+              "RelativeToolTip": "bad4\\Models\\Recipe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T13:51:47.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Stock.cs",
+              "DocumentMoniker": "C:\\Users\\mikai\\Downloads\\bad4\\bad4\\Models\\Stock.cs",
+              "RelativeDocumentMoniker": "bad4\\Models\\Stock.cs",
+              "ToolTip": "C:\\Users\\mikai\\Downloads\\bad4\\bad4\\Models\\Stock.cs",
+              "RelativeToolTip": "bad4\\Models\\Stock.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T13:51:53.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\mikai\\Downloads\\bad4\\bad4\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "bad4\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\mikai\\Downloads\\bad4\\bad4\\Properties\\launchSettings.json",
+              "RelativeToolTip": "bad4\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-09T20:27:29.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mikai\\Downloads\\bad4\\bad4\\appsettings.json",
+              "RelativeDocumentMoniker": "bad4\\appsettings.json",
+              "ToolTip": "C:\\Users\\mikai\\Downloads\\bad4\\bad4\\appsettings.json",
+              "RelativeToolTip": "bad4\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-05T13:50:51.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\mikai\\Downloads\\bad4\\bad4\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "bad4\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\mikai\\Downloads\\bad4\\bad4\\appsettings.Development.json",
+              "RelativeToolTip": "bad4\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-09T19:04:50.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\mikai\\Downloads\\bad4\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Users\\mikai\\Downloads\\bad4\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-10-09T19:04:09.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": ".dockerignore",
+              "DocumentMoniker": "C:\\Users\\mikai\\Downloads\\bad4\\.dockerignore",
+              "RelativeDocumentMoniker": ".dockerignore",
+              "ToolTip": "C:\\Users\\mikai\\Downloads\\bad4\\.dockerignore",
+              "RelativeToolTip": ".dockerignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-09T19:04:06.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\mikai\\Downloads\\bad4\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "C:\\Users\\mikai\\Downloads\\bad4\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-09T19:04:38.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mikai\\Downloads\\bad4\\bad4\\Program.cs",
+              "RelativeDocumentMoniker": "bad4\\Program.cs",
+              "ToolTip": "C:\\Users\\mikai\\Downloads\\bad4\\bad4\\Program.cs",
+              "RelativeToolTip": "bad4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T13:42:21.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20240505205633_Jwtoken.cs",
+              "DocumentMoniker": "C:\\Users\\mikai\\Downloads\\bad4\\bad4\\Migrations\\20240505205633_Jwtoken.cs",
+              "RelativeDocumentMoniker": "bad4\\Migrations\\20240505205633_Jwtoken.cs",
+              "ToolTip": "C:\\Users\\mikai\\Downloads\\bad4\\bad4\\Migrations\\20240505205633_Jwtoken.cs",
+              "RelativeToolTip": "bad4\\Migrations\\20240505205633_Jwtoken.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T20:56:33.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "20240505205547_Identity.cs",
+              "DocumentMoniker": "C:\\Users\\mikai\\Downloads\\bad4\\bad4\\Migrations\\20240505205547_Identity.cs",
+              "RelativeDocumentMoniker": "bad4\\Migrations\\20240505205547_Identity.cs",
+              "ToolTip": "C:\\Users\\mikai\\Downloads\\bad4\\bad4\\Migrations\\20240505205547_Identity.cs",
+              "RelativeToolTip": "bad4\\Migrations\\20240505205547_Identity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T20:55:47.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "20240505205535_Migration3.cs",
+              "DocumentMoniker": "C:\\Users\\mikai\\Downloads\\bad4\\bad4\\Migrations\\20240505205535_Migration3.cs",
+              "RelativeDocumentMoniker": "bad4\\Migrations\\20240505205535_Migration3.cs",
+              "ToolTip": "C:\\Users\\mikai\\Downloads\\bad4\\bad4\\Migrations\\20240505205535_Migration3.cs",
+              "RelativeToolTip": "bad4\\Migrations\\20240505205535_Migration3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T20:55:35.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20240505205528_Migration2.cs",
+              "DocumentMoniker": "C:\\Users\\mikai\\Downloads\\bad4\\bad4\\Migrations\\20240505205528_Migration2.cs",
+              "RelativeDocumentMoniker": "bad4\\Migrations\\20240505205528_Migration2.cs",
+              "ToolTip": "C:\\Users\\mikai\\Downloads\\bad4\\bad4\\Migrations\\20240505205528_Migration2.cs",
+              "RelativeToolTip": "bad4\\Migrations\\20240505205528_Migration2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T20:55:28.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "20240505205520_Migration1.cs",
+              "DocumentMoniker": "C:\\Users\\mikai\\Downloads\\bad4\\bad4\\Migrations\\20240505205520_Migration1.cs",
+              "RelativeDocumentMoniker": "bad4\\Migrations\\20240505205520_Migration1.cs",
+              "ToolTip": "C:\\Users\\mikai\\Downloads\\bad4\\bad4\\Migrations\\20240505205520_Migration1.cs",
+              "RelativeToolTip": "bad4\\Migrations\\20240505205520_Migration1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T20:55:20.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20240505205504_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\mikai\\Downloads\\bad4\\bad4\\Migrations\\20240505205504_InitialCreate.cs",
+              "RelativeDocumentMoniker": "bad4\\Migrations\\20240505205504_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\mikai\\Downloads\\bad4\\bad4\\Migrations\\20240505205504_InitialCreate.cs",
+              "RelativeToolTip": "bad4\\Migrations\\20240505205504_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T20:55:04.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "bad4.http",
+              "DocumentMoniker": "C:\\Users\\mikai\\Downloads\\bad4\\bad4\\bad4.http",
+              "RelativeDocumentMoniker": "bad4\\bad4.http",
+              "ToolTip": "C:\\Users\\mikai\\Downloads\\bad4\\bad4\\bad4.http",
+              "RelativeToolTip": "bad4\\bad4.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-05-05T14:29:07.044Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1161,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{320fd13f-632f-4b16-9527-a1adfe555f6c}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{5726b0e3-1012-5233-81f9-d1fad48e7a56}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ba2fc7a-405e-5c33-ae0c-f01f6ad6d6d7}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
